@@ -1,4 +1,4 @@
-# SBot discord giveaway
+# Bot discord giveaway
 > Un simple bot discord fait avec discord.js
 
 
